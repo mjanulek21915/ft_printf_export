@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror -fsanitize=address -I ft_printf/ ft_printf/*.c main.c ft_printf/write/*.c ft_printf/read/*.c
